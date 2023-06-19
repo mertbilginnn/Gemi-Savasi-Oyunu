@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gemi Savaşı", "Gemi Savaşı\Gemi Savaşı.csproj", "{8EBBC5F5-D7F3-4F52-B965-7CC9C3894DC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "savaş.library", "savaş.library\savaş.library.csproj", "{70BB690A-A346-417A-A14A-EB31882B81DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EBBC5F5-D7F3-4F52-B965-7CC9C3894DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBBC5F5-D7F3-4F52-B965-7CC9C3894DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBBC5F5-D7F3-4F52-B965-7CC9C3894DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBBC5F5-D7F3-4F52-B965-7CC9C3894DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70BB690A-A346-417A-A14A-EB31882B81DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70BB690A-A346-417A-A14A-EB31882B81DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70BB690A-A346-417A-A14A-EB31882B81DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70BB690A-A346-417A-A14A-EB31882B81DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422BFA96-E22A-4320-A0E3-01BCF0D4103F}
+	EndGlobalSection
+EndGlobal
